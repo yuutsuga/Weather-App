@@ -1,5 +1,5 @@
 # Weather-App
-This app (website too) works with the temperature of a researched city, saying how many degrees in C° it is and if the day is cloudy or sunny.
+This application works with the temperature of a researched city, saying how many degrees in C° it is and if the day is cloudy or sunny.
 Here I worked with react hooks, tailwindcss and external API.
 
 
